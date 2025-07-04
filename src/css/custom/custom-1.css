@@ -1,0 +1,13 @@
+.messina-sans {
+  font-family: "Messina Sans";
+}
+.my-input::placeholder {
+  font: 3px;
+}
+
+.name-input-of-contact-page::placeholder {
+  font-size: 16px !important;
+}
+.email-input-of-contact-page::placeholder {
+  font-size: 16px !important;
+}

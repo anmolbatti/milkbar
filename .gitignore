@@ -1,0 +1,6 @@
+node_modules
+build
+public/data
+public/images
+public/videos
+backend/public/images
